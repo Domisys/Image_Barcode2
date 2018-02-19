@@ -25,7 +25,7 @@
     "include-path": [
         "./"
     ],
-    "license": "PHP License",
+    "license": "PHP-3.0",
     "name": "domisys/image_barcode2",
     "support": {
         "source": "https://github.com/Domisys/Image_Barcode2"
